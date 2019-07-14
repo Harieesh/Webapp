@@ -1,0 +1,74 @@
+
+body{
+
+color:white;
+background-color: black;
+
+width: 1330px;
+ font-family: "Montserrat";
+}
+.lol{
+	font-family:"Montserrat";
+	position: absolute;
+	top:120px;
+}
+#box{
+      width:500px;
+      height:500px;
+      
+      float:left;
+
+}
+.box1{
+	font-family: "Montserrat";
+	font-size:50px;
+}
+.redbox{
+	position:absolute;	
+	left: 450px;
+	top:400px;
+	background-color: #13121A;
+	font-size: 25px;
+	border-style: solid;
+	border-color: white;
+	border-width: 1px 1px 1px 1px;
+	border-radius: 1em;	
+	align-content: right;
+}
+.login{
+	
+	border:none;
+	background-color: white;
+	padding:8px 10px;
+	font-size: 25px;
+	cursor: pointer;
+	border-color:white;
+	border-style: ridge;
+	display:inline-block;
+
+}
+.lac{
+	border-width:1px 1px 1px 1px;
+	border-radius:1em;
+	border-color:white;
+	color:white;
+}
+.head{
+	font-size: 100px;
+	font-family: "Montserrat";
+	color:red;
+	
+	text-align: center;
+	width:1330px;
+border-style:solid;
+background-color: black;
+border-color: grey;
+}
+
+
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underlined;
+}

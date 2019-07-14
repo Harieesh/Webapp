@@ -1,0 +1,32 @@
+
+
+		 body{
+	background-color:black;
+	color:black;
+ font-family: "Montserrat";
+color:white;
+font-size:25px;
+}
+.new{
+	position:absolute;
+	left:100px;
+
+	width:500px;
+	height:500px;
+	margin:50px;
+	float:center;
+   background-color:#13121A; 
+   border-style:solid;
+   border-color:white;
+   border-width:1px 1px 1px 1px;
+   border-radius: 1em;
+}
+#no{
+	padding:8px 10px;
+	cursor: pointer;
+	display:inline-block;
+	
+	font-size: 25px;
+	
+
+}
